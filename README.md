@@ -2,13 +2,13 @@
 
 ## Description
 
-The **File Unifier Tool** is a Python application built using Tkinter that allows users to search for and merge files with specified extensions from a selected folder. The contents of the files are concatenated and saved into a single output file.
+The **File Unifier Tool** is a Python application built using Tkinter It allows users to search for and merge files with specific extensions from a selected folder or selected individual files. The contents of the files are concatenated and saved into a single output file.
 
 This tool is particularly useful when you need to send multiple files to ChatGPT, allowing the model to understand the full context of the environment you are working in by combining several files into one for easier sharing.
 
 ## Features
 
-- Select a folder containing the files to be merged.
+- Select a folder containing the files or or specific individual files to be merged.
 - Choose one or more file extensions to search for (e.g., `.py`, `.txt`, `.java`, etc.).
 - Merge the contents of all found files into a single text file.
 - View the unified content directly within the graphical interface.
